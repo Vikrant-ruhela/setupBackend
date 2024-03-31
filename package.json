@@ -1,0 +1,26 @@
+{
+  "name": "setupbackend",
+  "version": "1.0.0",
+  "description": "A package to setup nodejs backend within some seconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vikrant-ruhela/setupBackend.git"
+  },
+  "keywords": [
+    "nodejsbackend",
+    "backend",
+    "setupBackend",
+    "backendSetup",
+    "setup-backend"
+  ],
+  "author": "Vikrant ruhela",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Vikrant-ruhela/setupBackend/issues"
+  },
+  "homepage": "https://github.com/Vikrant-ruhela/setupBackend#readme"
+}
