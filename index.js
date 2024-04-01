@@ -2,7 +2,7 @@ const { execSync } = require('child_process');
 const fs = require('fs');
 
 //function to create multiple files
-async function setupBackend() {
+async function setupbackend() {
         
     //pass an array to create files
     const filesToCreate = ['./index.js', './app.js', './.env','./.gitignore'];
@@ -184,4 +184,4 @@ async function setupBackend() {
     console.log("setup file deleted")
 }
 
-module.exports = setupBackend 
+module.exports = setupbackend 
