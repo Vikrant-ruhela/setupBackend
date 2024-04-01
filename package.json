@@ -1,6 +1,6 @@
 {
   "name": "setupbackend",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package to setup nodejs backend within some seconds.",
   "main": "index.js",
   "scripts": {
