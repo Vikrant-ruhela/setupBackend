@@ -184,4 +184,4 @@ async function setupBackend() {
     console.log("setup file deleted")
 }
 
-module.exports = { setupBackend } 
+module.exports = setupBackend 
