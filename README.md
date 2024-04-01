@@ -39,5 +39,4 @@ node setup.js
   - Nodemon
 - Automatically deletes setup file to keep your project clean
 - Completion of setup within 15 to 30 seconds
-- Compatible with all operating systems
 
